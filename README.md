@@ -6,8 +6,8 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 | Name                         | Description       | Tech/tools        | Link       |
 | ---------------------------- | ----------------- | ----------------- | ---------- |
-| CYBRDRAG                     | A webapp to do x. | MERN              |            |
-| SCLZ                         | A webapp to do y. | Ruby on Rails     |            |
+| CYBRDRAG                     | A webapp to do x. | MERN              | [CYBRDRAG](https://github.com/ehwus/cybrdrag)          |
+| SCLZ                         | A webapp to do y. | Ruby on Rails     | [SCLZ](https://github.com/alexleesonmill/acebook-SCLZ)           |
 
 ## Experience
 
