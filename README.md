@@ -1,69 +1,68 @@
 ## Alex Leeson-Mill
+University of Edinburgh Social Work graduate, former Deputy Head of Service with a Local Authority, making the transition into the tech industry. I recently completed a three month Makers Bootcamp where I taught myself Ruby & Javascript by building a range of applications and websites. As I continue to build on my technical and engineering skills, I want to bring my work ethic and experience to my next role, helping to build outstanding products with clean and well tested code. 
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
 
 ## Projects
-
 | Name                         | Description       | Tech/tools        | Link       |
 | ---------------------------- | ----------------- | ----------------- | ---------- |
-| CYBRDRAG                     | A webapp to do x. | MERN              | [CYBRDRAG](https://github.com/ehwus/cybrdrag)          |
-| SCLZ                         | A webapp to do y. | Ruby on Rails     | [SCLZ](https://github.com/alexleesonmill/acebook-SCLZ)           |
+| CYBRDRAG                     | A browser based fantasy sports stlye game where players invest in the careers of virtual streaming who perform on an hourly basis. An intricate world in which performers have traits which they can deploy to combat a variety of events that occur during streams and the users net worth is linked to how streamers perform. | MongoDB, Node JS, Express, React, Redux              | [Source code](https://github.com/ehwus/cybrdrag)          |
+| SCLZ                         | A fully functional social networking site | Ruby on Rails, Rspec, HTML, Bulma, CSS     | [Source code](https://github.com/alexleesonmill/acebook-SCLZ)           |
+| The Empire                         | A site where users can list properties for rental and rent the properties of others. First engineering project at Makers. | Ruby, Sinatra, Rspec, Capybara, HTML, Bootstrap, CSS     | [Source code](https://github.com/alexleesonmill/makers-bnb-the-empire)           |
 
 ## Experience
+**Islington Council** (09/18-09/20)  
+_Deputy Head of Learning Disability Services_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+- Overall responsibility for the effective management, operation and development of the in-house learning disability services. This included overall responsibility for the management of over 150 staff.
+- Developing and implementing policies, procedures, and quality standards.
+- Effective approaches to project management to ensure implementation of vision and strategy.
+- Responsibility for the recruitment and selection of staff.
+- Responsibility for the control and management of a £5m per year budget.
 
-- Any experience relevent to software development
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Islington Council** (10/17-09/18)  
+_Day Opportunities Manager_
 
-- Any experience relevent to software development
+- To take overall responsibility for the management, operation, and development of the service being provided to maximise outcomes for service users.
+- Undertake an annual service review and audit to inform service development plans, quality standards and to establish relevant performance indicators.
+- Determining the strategic direction of the service, providing leadership on corporate priorities.
+- Development of partnerships with local community stakeholders
+
 
 ## Skills
+#### Agile Learner
+- I have a strong history of agile learning. During my 7 years with Islington Council, I rose from support worker to Deputy Head of Service. This required me to continuously learn new concepts at pace to ensure that services were well supported. I have great desire to succeed and try new things, which led me to Makers Bootcamp, pushing myself to the edge of my comfort zone and drive on my development.  
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+#### Communication
+- I have a proven track record of clear and storng communication. Throughout my working life I regularly gave presentations to both frontline staff and senior management, ensuring that complex ideas were understood fully. I am trained to deliver training in a variety of roles and did so regularly during my employment. 
 
-#### This Skill
+#### Leadership
+- I have spent the past few years working in more senior leadership roles. I feel that my experience of this was shaped by my progression from front line care to senior management. 
 
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### Problem Solving
+- I excel at problem solving and working through issues in a systematic and holistic way. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-
+#### Makers Academy (Oct 2020 - Jan 2021)
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript, MERN
 - RSpec, Jasmine, Jest
 
-#### Your University / College (start_date to end_date)
+#### University of Edinburgh (2009-2012)
+_BSc with Honours in Social Work, 2:1_
+
+#### Other Education & Qualifications
 **QCF Level 5 Diploma Leadership for Health & Social Care Management 2017- 19**
 
-**Postgraduate Certificate Autism & Asperger’s Syndrome	2015- 16**
-Sheffield Hallam University
+**Sheffield Hallam University 2015- 16**
+_Postgraduate Certificate Autism & Asperger’s Syndrome_
 
-**BSc with Honours in Social Work, 2:1 2009- 12**
-University of Edinburgh, Scotland
 **Scottish Higher Qualifications (Woodmill High School, Dunfermline) 2005- 06**
 2 A’s & 3 B’s
 
-#### Any other qualifications
-
-That in some arguable way make you a better software developer or well-rounded person
-
 ## Hobbies
-
-Any cool stuff that makes you a super part of a software development team
+- I was a keen sportsman playing a variety of sports to a high level, before many knee injuries deprived me of playing most sports.
+- I love to travel and experience new things
+- I absolutely low jazz music, and prior to Covid I attended Ronnie Scott's as often as I could
