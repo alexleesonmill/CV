@@ -65,4 +65,4 @@ _Postgraduate Certificate Autism & Asperger’s Syndrome_
 ## Hobbies
 - I was a keen sportsman playing a variety of sports to a high level, before many knee injuries deprived me of playing most sports.
 - I love to travel and experience new things
-- I absolutely low jazz music, and prior to Covid I attended Ronnie Scott's as often as I could
+- I absolutely love jazz music, and prior to Covid I attended Ronnie Scott's as often as I could!
